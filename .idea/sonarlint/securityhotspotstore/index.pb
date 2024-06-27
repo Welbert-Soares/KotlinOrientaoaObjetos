@@ -9,3 +9,5 @@ t
 Dapp/src/main/java/com/w3soft/kotlin_orientao_a_objetos/ifElseWhen.kt,a\7\a7ccd7c1bae8c2a0c9ea7aa65f9a6e6424cfdcfb
 t
 Dapp/src/main/java/com/w3soft/kotlin_orientao_a_objetos/ArrayLoops.kt,5\5\5580913170e13a9b280be43724c0004c93c73eac
+{
+Kapp/src/main/java/com/w3soft/kotlin_orientao_a_objetos/IntroducaoFuncoes.kt,6\e\6e07e894e8b67f903395018faf766c6a4513bf15
