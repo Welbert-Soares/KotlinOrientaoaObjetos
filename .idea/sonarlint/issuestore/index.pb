@@ -5,3 +5,5 @@ u
 Eapp/src/main/java/com/w3soft/kotlin_orientao_a_objetos/NulllSafety.kt,b\0\b0df8ec12a7143be60d6a53977e043f8f365fbfa
 t
 Dapp/src/main/java/com/w3soft/kotlin_orientao_a_objetos/Operadores.kt,2\5\2520be9d44f09f1fb4914b19a52662359975410c
+t
+Dapp/src/main/java/com/w3soft/kotlin_orientao_a_objetos/ifElseWhen.kt,a\7\a7ccd7c1bae8c2a0c9ea7aa65f9a6e6424cfdcfb
